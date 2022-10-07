@@ -4,7 +4,7 @@ Hello! I am :
  - 📸 an always learning photography enthusiast,
  - ✈️ based in Limoges, France — but I will take any opportunity to travel!
 
-I am currently interested in Swift and SwiftUI 👀, and always learning about these topics. 🌱
+I am currently interested in Swift and SwiftUI 👀, and always learning about these topics 🌱.
 
 When I am not overanalyzing books 🧠🔥, developing apps 🛠, or taking photos 🌆, you will find me exploring the national parks with my dogs 🐕, spending time with my family or learning about otters 🦦.
 
