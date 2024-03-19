@@ -6,7 +6,7 @@ Hello! I am :
 
 I am currently interested in Swift and SwiftUI 👀, and always learning about these topics 🌱.
 
-When I am not overanalyzing books 🧠🔥, developing apps 🛠, or taking photos 🌆, you will find me exploring the national parks with my dogs 🐕, spending time with my family or learning about otters 🦦.
+When I am not overanalyzing books 🧠🔥, developing apps 🛠, or taking photos 🌆, you will find me exploring the national parks with my dogs 🐕 or learning about otters 🦦.
 
 📫 Reach me at [domenger.com](https://www.domenger.com).
 
