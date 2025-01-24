@@ -8,7 +8,7 @@ I am currently interested in Swift and SwiftUI 👀, and always learning about 
 
 When I am not overanalyzing books 🧠🔥, developing apps 🛠, or taking photos 🌆, you will find me exploring the national parks with my dogs 🐕 or learning about otters 🦦.
 
-📫 Reach me at [domenger.com](https://www.domenger.com).
+📫 Reach me at [domenger.com](https://www.domenger.com) or [ella.omg.lol](https://ella.omg.lol).
 
 <!---
 antoinedomenger/antoinedomenger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
